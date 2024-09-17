@@ -17,7 +17,7 @@ export default function Home({ selectedUser }: HomeProps) {
 
   useEffect(() => {
     if (selectedUser) {
-      const userDetail = users.find((user) => user.Name === selectedUser);
+      const userDetail = users.find((user) => user.ID === selectedUser);
       setUserDetails(userDetail);
     }
   }, [selectedUser]);

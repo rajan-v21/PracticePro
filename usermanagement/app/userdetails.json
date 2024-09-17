@@ -5,8 +5,7 @@
         "Address": "123 Sint St",
         "Number": "123-456-7890",
         "Email": "user1@example.com",
-        "ID": "1095",
-        "href": "/?user=user1"
+        "ID": "1095"
     },
     {
         "Name": "User 2",
@@ -14,8 +13,7 @@
         "Address": "123 Main St",
         "Number": "321-654-0987",
         "Email": "user2@example.com",
-        "ID": "1654",
-        "href": "/?user=user2"
+        "ID": "1654"
     },
     {
         "Name": "User 3",
@@ -23,7 +21,6 @@
         "Address": "123 Habour St",
         "Number": "213-456-7890",
         "Email": "user3@example.com",
-        "ID": "1567",
-        "href": "/?user=user3"
+        "ID": "1567"
     }
 ]

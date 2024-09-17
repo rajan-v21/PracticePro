@@ -22,9 +22,9 @@ export default function Sidenav({ onSelectUser }: SideNavProps) {
   return (
     <>
       {users.map((user) => {
-        const userNameParam = encodeURIComponent(user.Name); // Encode the user name for the URL
-        const isActive = currentUser === user.Name; // Compare actual names
-
+        const userNameParam = encodeURIComponent(user.ID); // Encode the user name for the URL
+        const isActive = currentUser === user.ID; // Compare actual names
+        
         return (
           <Link
             key={user.Name}
