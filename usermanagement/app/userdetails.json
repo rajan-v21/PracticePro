@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "User 1",
+        "DOB": "01/01/2000",
+        "Address": "123 Sint St",
+        "Number": "123-456-7890",
+        "Email": "user1@example.com",
+        "ID": "1095",
+        "href": "/?user=user1"
+    },
+    {
+        "Name": "User 2",
+        "DOB": "12/12/2004",
+        "Address": "123 Main St",
+        "Number": "321-654-0987",
+        "Email": "user2@example.com",
+        "ID": "1654",
+        "href": "/?user=user2"
+    },
+    {
+        "Name": "User 3",
+        "DOB": "01/01/2000",
+        "Address": "123 Habour St",
+        "Number": "213-456-7890",
+        "Email": "user3@example.com",
+        "ID": "1567",
+        "href": "/?user=user3"
+    }
+]
